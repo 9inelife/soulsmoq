@@ -807,16 +807,16 @@ details > summary ::-webkit-details-marker{
 }
 
 .countdown-container .day-count{
-  margin: 1.5rem;
+  margin: 1rem;
 }
 
 .countdown-container .timer-container p{
   font-weight: bold;
-  font-size: 0.9rem;
+  font-size: 1rem;
 
 }
 .countdown-container .timer-container span{
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 
