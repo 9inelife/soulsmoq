@@ -812,11 +812,11 @@ details > summary ::-webkit-details-marker{
 
 .countdown-container .timer-container p{
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 0.9rem;
 
 }
 .countdown-container .timer-container span{
-  font-size: 1.5rem;
+  font-size: 0.9rem;
 }
 
 
