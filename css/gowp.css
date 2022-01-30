@@ -799,7 +799,7 @@ details > summary ::-webkit-details-marker{
 .countdown-container .timer-container{
   display: flex;
   flex-direction: row;
-  line-height: 2rem;
+  line-height: 1rem;
   text-align: center;
   background-position: center center;
   
