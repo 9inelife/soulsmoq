@@ -549,7 +549,7 @@ grid-template-columns: repeat(3, 1fr);
     
 }
            .g {
-        display:grid;
+        display:flex;
         grid-gap: 0rem;
         /*grid-template-rows: 1fr 1fr 1fr;
                 grid-template-columns: repeat(2, 1fr);*/
