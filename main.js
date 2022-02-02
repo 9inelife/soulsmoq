@@ -25,7 +25,7 @@ window.addEventListener('scroll', run);
 
 
 function countdown() {
-  const valDate = new Date('feb 6, 2022 00:00:00').getTime();
+  const valDate = new Date('feb 6, 2022 18:00:00').getTime();
 
   //getTime helps to convert date to min seconds
   const curentDate = new Date().getTime();
